@@ -8,7 +8,7 @@ Tools to handle Shenju YP3 Rockstar portable mp3 players dictionary format, each
 
 For now it's only available one dictionary English/Chinese in Shenju Portable Player Dictionary Format.  
 
-http://www.eroshifi.com/upload/aigo/aigo_MP3-803(%E5%AD%A6%E4%B9%A0%E7%89%88)%E8%AF%8D%E5%85%B8%E6%96%87%E4%BB%B6.zip
+Chinese/English Dictionary files https://mega.nz/file/Om5kGJxK#ocoSYxCtoIoRF63W8Vht55n9R_HDBVP4N7wHM2ZABtE
   
 But improving these tools it could add new dictionaries with data from StarDict, Apertium and Wiktionary projects.  
 
