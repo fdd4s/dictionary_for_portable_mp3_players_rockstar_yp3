@@ -27,9 +27,9 @@ And it must have 3 files: dict.id dict.pcm dict.txt
 
 ## Raw data from other dictionaries
 
-https://sourceforge.net/projects/stardict-4/files/
-https://github.com/apertium
-https://dumps.wikimedia.org/enwiktionary/
+https://sourceforge.net/projects/stardict-4/files/  
+https://github.com/apertium  
+https://dumps.wikimedia.org/enwiktionary/  
 
 ## Related projects
 
